@@ -1,0 +1,25 @@
+h2, h1 {
+    font-family: fantasy;
+}
+
+li {
+    font-style: italic;
+}
+
+div {
+    text-align: center;
+}
+
+td {
+    font-style: italic;
+    background-color: cornsilk;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: antiquewhite;
+}
+
+a {
+    text-decoration: none;
+}
